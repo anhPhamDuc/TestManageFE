@@ -1,0 +1,12 @@
+.LogoSystem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ProjectName {
+    margin-left: 8px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+}
